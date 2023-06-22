@@ -1,5 +1,5 @@
 some text for header
-Changes from master
+Changes from master  -- -new changes
 bla bla
 
 sdfsdfsfdsdf
